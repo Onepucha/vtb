@@ -1,0 +1,75 @@
+
+			@font-face
+			{
+				font-family: 'clear_sansregular';
+				font-weight: normal;
+				font-style: normal;
+				src: url('webfonts/Clear/Regular/ClearSans-Regular.woff2') format('woff2'),
+					 url('webfonts/Clear/Regular/ClearSans-Regular.woff') format('woff'),
+					 url('webfonts/Clear/Regular/ClearSans-Regular.ttf') format('truetype');
+			}
+			@font-face
+			{
+				font-family: 'clear_sansregular';
+				font-weight: normal;
+				font-style: italic;
+				src: url('webfonts/Clear/Regular/ClearSans-Italic.woff2') format('woff2'),
+					 url('webfonts/Clear/Regular/ClearSans-Italic.woff') format('woff'),
+					 url('webfonts/Clear/Regular/ClearSans-Italic.ttf') format('truetype');
+			}
+			@font-face
+			{
+				font-family: 'clear_sansregular';
+				font-weight: bold;
+				font-style: normal;
+				src: url('webfonts/Clear/Regular/ClearSans-Bold.woff2') format('woff2'),
+					 url('webfonts/Clear/Regular/ClearSans-Bold.woff') format('woff'),
+					 url('webfonts/Clear/Regular/ClearSans-Bold.ttf') format('truetype');
+			}
+			@font-face
+			{
+				font-family: 'clear_sansregular';
+				font-weight: bold;
+				font-style: italic;
+				src: url('webfonts/Clear/Regular/ClearSans-BoldItalic.woff2') format('woff2'),
+					 url('webfonts/Clear/Regular/ClearSans-BoldItalic.woff') format('woff'),
+					 url('webfonts/Clear/Regular/ClearSans-BoldItalic.ttf') format('truetype');
+			}
+		
+			@font-face
+			{
+				font-family: 'open_sansregular';
+				font-weight: normal;
+				font-style: normal;
+				src: url('webfonts/Open/Regular/OpenSans-Regular.woff2') format('woff2'),
+					 url('webfonts/Open/Regular/OpenSans-Regular.woff') format('woff'),
+					 url('webfonts/Open/Regular/OpenSans-Regular.ttf') format('truetype');
+			}
+			@font-face
+			{
+				font-family: 'open_sansregular';
+				font-weight: normal;
+				font-style: italic;
+				src: url('webfonts/Open/Regular/OpenSans-Italic.woff2') format('woff2'),
+					 url('webfonts/Open/Regular/OpenSans-Italic.woff') format('woff'),
+					 url('webfonts/Open/Regular/OpenSans-Italic.ttf') format('truetype');
+			}
+			@font-face
+			{
+				font-family: 'open_sansregular';
+				font-weight: bold;
+				font-style: normal;
+				src: url('webfonts/Open/Regular/OpenSans-Bold.woff2') format('woff2'),
+					 url('webfonts/Open/Regular/OpenSans-Bold.woff') format('woff'),
+					 url('webfonts/Open/Regular/OpenSans-Bold.ttf') format('truetype');
+			}
+			@font-face
+			{
+				font-family: 'open_sansregular';
+				font-weight: bold;
+				font-style: italic;
+				src: url('webfonts/Open/Regular/OpenSans-BoldItalic.woff2') format('woff2'),
+					 url('webfonts/Open/Regular/OpenSans-BoldItalic.woff') format('woff'),
+					 url('webfonts/Open/Regular/OpenSans-BoldItalic.ttf') format('truetype');
+			}
+		

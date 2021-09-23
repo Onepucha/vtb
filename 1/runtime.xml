@@ -1,0 +1,3652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 9/23/2021 10:12:48 AM using CourseLab 200122 -->
+<module>
+<runtime preview_fullscreen="no" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="yes"/>
+<groups>
+</groups>
+<slides>
+<slide id="SLIDE_16" expanded="yes" sid="6W" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Глядя на ночное небо, мы смотрим в прошлое" indent="0">
+<frames>
+<frame id="FRAME_37" expanded="yes" dur="0" infinite="1">
+<object id="TXT_423" expanded="yes" x="40" y="40" w="1182" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1182px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">Глядя на ночное небо, мы смотрим в прошлое
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_385" expanded="yes" x="1020" y="490" w="450" h="300" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 450px; height: 300px; box-sizing: border-box;"><div class="planet">
+<div class="white-circle">&nbsp;</div>
+
+<div class="c1">&nbsp;</div>
+
+<div class="c2">&nbsp;</div>
+
+<div class="c3">&nbsp;</div>
+
+<div class="c4">&nbsp;</div>
+
+<div class="c5">&nbsp;</div>
+
+<div class="c6">&nbsp;</div>
+</div></div>]]>
+</data>
+</object>
+<object id="IMG_43" expanded="yes" x="40" y="100" w="150" h="150" z="102" display="frame" begin="0" preload="images/astronavt_1.png">
+<data>
+<![CDATA[<img src="images/astronavt_1.png" style="width: 150px; height: 150px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="TXT_386" expanded="yes" x="200" y="130" w="540" h="93" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 540px; height: 93px; box-sizing: border-box;"><div class="row">
+  <div class="speech left__middle down" style="margin-left:25px;">
+    <div class="text text-l">Когда мы смотрим в ночное небо и видим привычные нам звезды, мы действительно заглядываем в прошлое.
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_387" expanded="yes" x="40" y="275" w="1126" h="111" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1126px; height: 111px; box-sizing: border-box;"><div class="text text-xxl">Это происходит оттого, что на самом деле мы видим свет, посланный очень далеким объектом много лет назад. Все звезды, которые мы видим с Земли, находятся на расстоянии многих световых лет от нас. И чем звезда дальше, тем дольше добирается до нас ее свет.
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_77" expanded="yes" dur="0" infinite="1">
+<object id="TXT_392" expanded="yes" x="40" y="40" w="1182" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1182px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">Глядя на ночное небо, мы смотрим в прошлое
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_395" expanded="yes" x="40" y="185" w="778" h="279" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 778px; height: 279px; box-sizing: border-box;"><div class="text text-xxl  mb-30">Например, галактика Андромеды находится в 2,3 миллиона световых лет от нас. То есть ровно столько идет до нас ее свет. Галактику мы видим такой, какой она на самом деле была 2,3 миллиона лет назад.<br />
+А наше Солнце мы видим с опозданием в восемь минут.</div>
+
+<div class="text text-xxl">Солнце вращается вокруг своей оси неравномерно.</div>
+
+<ul class="list__ol text text-xxl">
+	<li class="list__ul-dash">На экваторе &mdash; за 25,05 дня.</li>
+	<li class="list__ul-dash">У полюсов &mdash; за 34,3 дня.</li>
+</ul></div>]]>
+</data>
+</object>
+<object id="TXT_393" expanded="yes" x="870" y="185" w="350" h="350" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 350px; height: 350px; box-sizing: border-box;"><div class="card__planet">
+  <div class="planet__atmosphere">
+    <div class="planet__surface sun">&nbsp;
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_43" expanded="yes" x="920" y="550" w="250" h="60" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 60px; box-sizing: border-box;"><div class="h4 text-uppercase text-center">Солнце
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_38" expanded="yes" sid="7Z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="В космосе не абсолютная тишина" indent="0">
+<frames>
+<frame id="FRAME_73" expanded="yes" dur="0" infinite="1">
+<object id="TXT_388" expanded="yes" x="40" y="40" w="1182" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1182px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">В космосе не абсолютная тишина</h1></div>]]>
+</data>
+</object>
+<object id="TXT_391" expanded="yes" x="40" y="100" w="874" h="74" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 874px; height: 74px; box-sizing: border-box;"><div class="text text-xxl">Наши уши воспринимают колебания воздуха, а в космосе из-за безвоздушной среды мы действительно
+
+  не сможем услышать никаких звуков.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_390" expanded="yes" x="40" y="185" w="789" h="291" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 789px; height: 291px; box-sizing: border-box;"><div class="text text-xxl">Но это не значит, что их там нет. На самом деле даже разреженный газ или вакуум может проводить неслышный для нашего уха звук очень большой длинной волны. Его источником могут стать столкновения газопылевых облаков или вспышки сверхновых.
+</div>
+<div class="text text-xxl">Слышать такие электромагнитные волны мы, конечно, не можем.
+  <br />
+  А вот у некоторых космических кораблей есть инструменты, способные захватывать радиоизлучение, а ученые, в свою очередь, могут преобразовать его в звуковые волны. Прослушайте &laquo;голос&raquo; гиганта Юпитера, сделанный космический аппаратом Кассини в 2001 году.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_389" expanded="yes" x="40" y="500" w="100" h="100" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 100px; height: 100px; box-sizing: border-box;"><div class="sound-bg">1</div>
+
+<audio class="hidden-sound" controls=""><source src="user/images/sun_sonification.wav" type="audio/mpeg" /></audio></div>]]>
+</data>
+</object>
+<object id="TXT_394" expanded="yes" x="155" y="536" w="250" h="29" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 29px; box-sizing: border-box;"><div class="text text-xl">&laquo;Голос&raquo; гиганта Юпитера
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_396" expanded="yes" x="870" y="185" w="350" h="350" z="105" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 350px; height: 350px; box-sizing: border-box;"><div class="card__planet">
+  <div class="planet__atmosphere">
+    <div class="planet__surface jupiter">&nbsp;
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_42" expanded="yes" x="920" y="550" w="250" h="60" z="106" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 60px; box-sizing: border-box;"><div class="h4 text-uppercase text-center">юпитер
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_39" expanded="yes" sid="80" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Какая температура в космосе" indent="0">
+<frames>
+<frame id="FRAME_78" expanded="yes" dur="0" infinite="1">
+<object id="TXT_397" expanded="yes" x="40" y="40" w="1182" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1182px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">Какая температура в космосе
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_398" expanded="yes" x="40" y="100" w="1180" h="74" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 74px; box-sizing: border-box;"><div class="text text-xxl">На самом деле наше обычное представление о температуре к космическому пространству не совсем применимо. Температура – это состояние вещества, а его в открытом космосе, как известно, практически нет.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_399" expanded="yes" x="434" y="203" w="789" h="291" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 789px; height: 291px; box-sizing: border-box;"><div class="text text-xxl">Но это не значит, что их там нет. На самом деле даже разреженный газ или вакуум может проводить неслышный для нашего уха звук очень большой длинной волны. Его источником могут стать столкновения газопылевых облаков или вспышки сверхновых.
+</div>
+<div class="text text-xxl">Слышать такие электромагнитные волны мы, конечно, не можем.
+  <br />
+  А вот у некоторых космических кораблей есть инструменты, способные захватывать радиоизлучение, а ученые, в свою очередь, могут преобразовать его в звуковые волны. Прослушайте &laquo;голос&raquo; гиганта Юпитера, сделанный космический аппаратом Кассини в 2001 году.
+</div></div>]]>
+</data>
+</object>
+<object id="IMG_4" expanded="yes" x="40" y="214" w="350" h="350" z="103" display="frame" begin="0" preload="images/prost.png">
+<data>
+<![CDATA[<img src="images/prost.png" style="width: 350px; height: 350px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_7" expanded="yes" sid="81" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Самая большая звезда во Вселенной" indent="0">
+<frames>
+<frame id="FRAME_9" expanded="yes" dur="0" infinite="1">
+<object id="TXT_37" expanded="yes" x="40" y="40" w="1182" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1182px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">Самая большая звезда во Вселенной
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_38" expanded="yes" x="40" y="100" w="1180" h="74" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 74px; box-sizing: border-box;"><div class="text text-xxl">На самом деле наше обычное представление о температуре к космическому пространству не совсем применимо. Температура – это состояние вещества, а его в открытом космосе, как известно, практически нет.
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_39" expanded="yes" x="434" y="203" w="789" h="291" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 789px; height: 291px; box-sizing: border-box;"><div class="text text-xxl">Но это не значит, что их там нет. На самом деле даже разреженный газ или вакуум может проводить неслышный для нашего уха звук очень большой длинной волны. Его источником могут стать столкновения газопылевых облаков или вспышки сверхновых.
+</div>
+<div class="text text-xxl">Слышать такие электромагнитные волны мы, конечно, не можем.
+  <br />
+  А вот у некоторых космических кораблей есть инструменты, способные захватывать радиоизлучение, а ученые, в свою очередь, могут преобразовать его в звуковые волны. Прослушайте &laquo;голос&raquo; гиганта Юпитера, сделанный космический аппаратом Кассини в 2001 году.
+</div></div>]]>
+</data>
+</object>
+<object id="IMG_6" expanded="yes" x="40" y="214" w="350" h="350" z="103" display="frame" begin="0" preload="images/prost.png">
+<data>
+<![CDATA[<img src="images/prost.png" style="width: 350px; height: 350px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_10" expanded="yes" dur="0" infinite="1">
+<object id="TXT_40" expanded="yes" x="40" y="40" w="1180" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">Самая большая звезда во Вселенной
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_41" expanded="yes" x="40" y="100" w="1125" h="177" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1125px; height: 177px; box-sizing: border-box;"><div class="text text-xl mb-30">Конечно, речь идет о самой большой известной нам звезде. По оценкам ученых, Вселенная содержит более 100 миллиардов галактик, каждая из которых, в свою очередь, содержит от нескольких миллионов до сотен миллиардов звезд. Нетрудно догадаться, что в них могут существовать такие гиганты, о которых мы даже не подозреваем.
+</div>
+<h3 class="h3">Оказалось, что вопрос, какая звезда самая большая, неоднозначен даже для самих ученых. Поэтому расскажем о трех известных на данный момент гигантах.
+</h3></div>]]>
+</data>
+</object>
+<object id="TXT_44" expanded="yes" x="40" y="300" w="250" h="250" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 250px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'TXT_44_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="planets vy">1</div></div>]]>
+</data>
+<RESPONSE name="TXT_44_1" event="onclick" type="link">
+<DISPLAY pid="TXT_47" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+</object>
+<object id="TXT_45" expanded="yes" x="505" y="300" w="250" h="250" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 250px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'TXT_45_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="planets r1">1
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_45_1" event="onclick" type="link">
+<DISPLAY pid="TXT_48" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+</object>
+<object id="TXT_46" expanded="yes" x="970" y="300" w="250" h="250" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 250px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'TXT_46_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="planets nml">1</div></div>]]>
+</data>
+<RESPONSE name="TXT_46_1" event="onclick" type="link">
+<DISPLAY pid="TXT_49" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</RESPONSE>
+</object>
+<object id="TXT_47" expanded="yes" x="0" y="0" w="1280" h="720" z="105" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_47_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+<div class="modal-content">
+<div class="modal-icon-close modal-close">&nbsp;</div>
+
+<div class="h4 mb-pink">VY Большого Пса</div>
+
+<div class="text text-xl">Довольно долго самой большой звездой считалась VY в созвездии Большого Пса. Ее радиус &ndash; от 1300 до 1540 радиусов Солнца, а диаметр &ndash; около двух миллиардов километров. Для сравнения, диаметр Солнца &ndash; 1,392 миллиона километров. Если представить наше светило как шар в один сантиметр, то диаметр VY составит 21 метр.</div>
+</div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_47_1" event="ondisplay" type="link">
+<ZINDEX pid="TXT_47" z="4001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_48" expanded="yes" x="0" y="0" w="1280" h="720" z="106" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_48_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+<div class="modal-content">
+<div class="modal-icon-close modal-close">&nbsp;</div>
+
+<div class="h4 mb-pink">R136a1</div>
+
+<div class="text text-xl">Самая массивная из известных звезд &ndash; R136a1 в Большом Магеллановом Облаке. Это трудно представить, но звезда весит как 256 Солнц. Она же самая яркая из всех. Этот голубой гипергигант светит ярче нашей звезды в десять миллионов раз. А вот по своим размерам R136a1 далеко не самая крупная. Несмотря на впечатляющую яркость, увидеть ее с Земли невооруженным глазом не получится, потому что она находится в 165 тысячах световых лет от нас.</div>
+</div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_48_1" event="ondisplay" type="link">
+<ZINDEX pid="TXT_48" z="4001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_49" expanded="yes" x="0" y="0" w="1280" h="720" z="107" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 720px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_49_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="modal">
+  <div class="modal-content">
+    <div class="modal-icon-close modal-close">&nbsp;
+    </div>
+    <div class="h4 mb-pink">NML Лебедя
+    </div>
+    <div class="text text-xl">В настоящее время лидер списка огромности &ndash; красный гипергигант NML Лебедя. Радиус этой звезды ученые оценивают в 1650 радиусов нашего светила. Чтобы лучше себе представить этого сверхгиганта, поместим звезду в центр нашей Солнечной системы вместо Солнца. Она займет собой все космическое пространство до орбиты Юпитера.
+    </div>
+  </div>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_49_1" event="ondisplay" type="link">
+<ZINDEX pid="TXT_49" z="4001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_50" expanded="yes" x="40" y="565" w="250" h="60" z="108" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 60px; box-sizing: border-box;"><div class="h4 text-uppercase text-center">VY Большого Пса
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_51" expanded="yes" x="505" y="565" w="250" h="60" z="109" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 60px; box-sizing: border-box;"><div class="h4 text-uppercase text-center">R136a1
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_52" expanded="yes" x="970" y="565" w="250" h="60" z="110" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 60px; box-sizing: border-box;"><div class="h4 text-uppercase text-center">NML Лебедя
+</div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+<frame id="FRAME_11" expanded="yes" dur="0" infinite="1">
+<object id="TXT_61" expanded="yes" x="40" y="40" w="1180" h="48" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1180px; height: 48px; box-sizing: border-box;"><h1 class="h2 text-uppercase">Самая большая звезда во Вселенной
+</h1></div>]]>
+</data>
+</object>
+<object id="TXT_62" expanded="yes" x="40" y="100" w="1125" h="177" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1125px; height: 177px; box-sizing: border-box;"><div class="text text-xl mb-30">Конечно, речь идет о самой большой известной нам звезде. По оценкам ученых, Вселенная содержит более 100 миллиардов галактик, каждая из которых, в свою очередь, содержит от нескольких миллионов до сотен миллиардов звезд. Нетрудно догадаться, что в них могут существовать такие гиганты, о которых мы даже не подозреваем.
+</div>
+<h3 class="h3">Оказалось, что вопрос, какая звезда самая большая, неоднозначен даже для самих ученых. Поэтому расскажем о трех известных на данный момент гигантах.
+</h3></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_27" expanded="yes" sid="7O" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Заключение" indent="0">
+<frames>
+<frame id="FRAME_74" expanded="yes" dur="0" infinite="1">
+<object id="TXT_213" expanded="yes" x="0" y="360" w="1280" h="360" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 360px; box-sizing: border-box;"><div class="bg-gray" style="font-size: 0px;height:100%;">123
+</div></div>]]>
+</data>
+</object>
+<object id="TXT_214" expanded="yes" x="197" y="245" w="885" h="224" z="101" display="frame" begin="0" tranin="12" durin="0.4">
+<data>
+<![CDATA[<div style="width: 885px; height: 224px; box-sizing: border-box;"><div class="row mb-blue">
+    <div class="plate text-center">
+      <div class="text-xxl mb-magenta">Вы успешно завершили изучение курса </div>
+      <div class="text-xxl text-bold mb-magenta">Программа страхования «Страхование кредитной карты»</div>
+      <div class="text-xxl">Желаем больших успехов в работе!</div>
+    </div>
+    <div class="btn btn__primary m btn__block" onclick="window.close();">Закрыть окно курса
+    </div>
+  </div></div>]]>
+</data>
+</object>
+<object id="TXT_206" expanded="yes" x="45" y="87" w="1190" h="40" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 1190px; height: 40px; box-sizing: border-box;"><div class="h2">Заключение</div></div>]]>
+</data>
+</object>
+<object id="TXT_230" expanded="yes" x="809" y="661" w="131" h="44" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 131px; height: 44px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_230_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="bg-gray" style="font-size: 0px;height:100%;">123
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_230_1" event="ondisplay" type="link">
+<ZINDEX pid="TXT_230" z="2001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_294" expanded="yes" x="1079" y="661" w="180" h="44" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 180px; height: 44px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_294_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="bg-gray" style="font-size: 0px;height:100%;">123
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_294_1" event="ondisplay" type="link">
+<ZINDEX pid="TXT_294" z="2001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<object id="TXT_380" expanded="yes" x="729" y="644" w="552" h="77" z="105" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 552px; height: 77px; box-sizing: border-box;" ondisplay="CL.Resp.Process({ respid: 'TXT_380_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="bg-gray" style="background: white; width: 100%; height: 100%;">
+  <p>&nbsp;
+  </p>
+</div></div>]]>
+</data>
+<RESPONSE name="TXT_380_1" event="ondisplay" type="link">
+<ZINDEX pid="TXT_380" z="2001" additive="replace">
+</ZINDEX>
+</RESPONSE>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="SLIDE_MASTER" expanded="yes" sid="1">
+<frames>
+<frame id="FRAME_4" expanded="yes" dur="0" infinite="0">
+<object id="OBJ_8" expanded="yes" x="1297" y="135" w="720" h="400" z="0" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_8 .cl-container"><span class="rule-static">width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;</span></div><div class="rule" data-name="#OBJ_8 .cl-body"><span class="rule-static">left: 0; top: 0;width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;padding: 15px; border: 1px solid #0080C0; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_8 .cl-body-header"><span class="rule-static">padding: 0 0 15px 0;</span></div><div class="rule" data-name="#OBJ_8 .slide-list li"><span class="rule-static">padding: 5px 5px 5px 0; font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span></div><div class="rule" data-name="#OBJ_8 .open .indent"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_8 .closed .indent"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_8 .allowed"><span class="rule-static">background-color: #FFFFFF; color: #004080;</span></div><div class="rule" data-name="#OBJ_8 .current"><span class="rule-static">background-color: #EEEEEE; color: #000000;</span></div><div class="rule" data-name="#OBJ_8 .forbidden"><span class="rule-static">background-color: #FFFFFF; color: #999999;</span></div><div class="rule" data-name="#OBJ_8 .visited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px 0px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .current .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -400px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .unvisited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -800px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .cl-close-btn"><span class="rule-static">display: none; top: 15px; right: 15px; color: #0080C0;</span></div></div><div id="OBJ_8_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-contents"><ul class="slide-list" /><ul style="display: none;"><li class="slide-item-template"><div class="indent"><div class="item-inner">
+										.
+									</div></div></li></ul></div></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_235" expanded="yes" x="-206" y="144" w="162" h="103" z="1" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 162px; height: 103px; box-sizing: border-box;background-color: #c0c0c0;"><h1>Vue.js Components
+</h1>
+<script type="text/x-template" id="lmm-test-container-after-template">
+    <div style="width:100%;">
+        <div class="d-flex">
+            <div class="lmm-answers__question_count" style="min-width: 100px;">
+                <p v-show="questionNumberShow"
+                   class="text-m lmm-text__questions mb-cyan text-light-black">
+                    {{curQuestionNumber + 1}}<span>/{{data.length}}</span></p>
+            </div>
+            <div v-if="data.length > 0" class="lmm-answers__question-single mb-cyan"
+                 style="width:1090px;">
+                <p class="lmm-text lmm-text__questions text-xl mb-cyan text-bold"
+                   ref="question-text"
+                   v-html="data[curQuestionNumber].question_text"></p>
+                <div class="lmm-answers__choose"
+                     v-if="data[curQuestionNumber].question_type === 'radio' || data[curQuestionNumber].question_type === 'checkbox'">
+                    <p class="text-m mb-cyan text-light-black">
+                        {{data[curQuestionNumber].question_type === 'radio' ? 'Выберите один ответ':
+                        'Выберите несколько ответов' }}
+                    </p>
+                </div>
+                <div class="lmm-answers__choose"
+                     v-if="data[curQuestionNumber].question_type === 'sortable' || data[curQuestionNumber].question_type === 'ranking'">
+                    <p class="text-m mb-cyan text-light-black">
+                        {{data[curQuestionNumber].question_type === 'ranking' ? 'Расположите этапы в правильном порядке':
+                        'Соотнесите текст и блок' }}
+                    </p>
+                </div>
+                <div v-if="data[curQuestionNumber].question_type === 'radio'"
+                     class="lmm-answers__q_var">
+                    <div v-for="(answer, index) in data[curQuestionNumber].answers"
+                         :key="answer.answer_text + now" :class="[
+                                                                                        'subordinate-choice border-top-1 radiobox s__item competere border-gray',
+                                                                                        { 'border-bottom-1': index == data[curQuestionNumber].answers.length - 1 }
+                                                                                ]">
+                        <input :checked="answer.is_selected" :disabled="answer.disabled === true"
+                               :id="String(answer.answer_text)"
+                               @change="changeRadioAnswer($event, answer)" name="radio-box-group"
+                               type="radio" class="radiobox s blue">
+                        <label :for="String(answer.answer_text)" :class="['radiobox text-m s__label blue', {
+                                                                                            'bg-red border-red': (answer.is_selected && !answer.is_correct && isInCorrectAnswer),
+                                                                                            'bg-green border-green': (answer.is_correct && (isCorrectAnswer || isInCorrectAnswer)),
+                                                                                            'incorrect': isInCorrectAnswer,
+                                                                                            'correct': isCorrectAnswer
+                                                                                        }]">{{answer.answer_text}}</label>
+                    </div>
+                </div>
+                <div v-else-if="data[curQuestionNumber].question_type === 'checkbox'"
+                     class="lmm-answers__q_var">
+                    <div v-for="(answer, index) in data[curQuestionNumber].answers" :class="[
+                                                                                        'checkbox s__item competere subordinate-choice border-top-1 border-gray',
+                                                                                        { 'border-bottom-1': index == data[curQuestionNumber].answers.length - 1 }
+                                                                                ]"
+                         :key="answer.answer_text + now">
+                        <input :checked="answer.is_selected" :disabled="answer.disabled === true"
+                               @change="changeCheckboxAnswer($event, answer)" name="1"
+                               :id="String(answer.answer_text)"
+                               type="checkbox" class="checkbox s">
+                        <label :for="String(answer.answer_text)" :class="['checkbox text-m s__label blue', {
+                                                                                            'bg-red border-red': (answer.is_selected && !answer.is_correct && isInCorrectAnswer),
+                                                                                            'bg-green border-green': (answer.is_correct && (isCorrectAnswer || isInCorrectAnswer)),
+                                                                                            'incorrect': isInCorrectAnswer,
+                                                                                            'correct': isCorrectAnswer
+                                                                                    }]">{{answer.answer_text}}</label>
+                    </div>
+                </div>
+                <div v-else-if="data[curQuestionNumber].question_type === 'sortable'"
+                     class="lmm-answers__q_var">
+                    <lmm-draggable-vue :message="data[curQuestionNumber].answers"
+                                       :next-question="nextQuestion"
+                                       :next-button-text="nextButtonText"
+                                       :feedback="data[curQuestionNumber].feedback"
+                                       :answers="data[curQuestionNumber].answers_texts">
+                    </lmm-draggable-vue>
+                </div>
+                <div v-else-if="data[curQuestionNumber].question_type === 'ranking'"
+                     class="lmm-answers__q_var">
+                    <lmm-ranking-vue :message="data[curQuestionNumber].answers"
+                                     :next-question="nextQuestion"
+                                     :next-button-text="nextButtonText"
+                                     :feedback="data[curQuestionNumber].feedback"
+                                     :answers="data[curQuestionNumber].answers_texts">
+                    </lmm-ranking-vue>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex">
+            <div style="width: 92.25px;;">
+                &nbsp;
+            </div>
+            <div>
+                <div v-show="showFeedback" class="mb-pink">
+                    <div class="text-m" v-html="feedbackText"></div>
+                </div>
+                <!-- <div v-if="isCorrectAnswer">Верно</div> -->
+                <!-- <div v-if="isInCorrectAnswer">Неверно</div> -->
+                <div class="lmm-answers__accept">
+                    <div class="lmm-answers accept__center">
+                        <button v-if="isApplyQuestionButtonShow" @click="applyQuestion($event)"
+                                class="btn__primary nav">Принять ответ
+                        </button>
+                        <button v-if="isNextButtonShow" @click="nextQuestion($event)"
+                                class="btn__primary nav">{{nextButtonText}}
+                        </button>
+                        <button v-if="isFixButtonShow" @click="fixQuestion()"
+                                class="btn__primary nav lmm-btn__width-160 lmm-margin__right-20 lmm-margin__right_xs-0 lmm-margin__bottom_xs-20">
+                            Попробовать снова
+                        </button>
+                        <button v-if="isDiscoverButtonShow" @click="discoverQuestion()"
+                                class="btn__primary nav">Узнать ответ
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    Vue.component('lmm-test-container-after', {
+        template: '#lmm-test-container-after-template',
+        props: {
+            data: {
+                type: Array
+            },
+            random: {
+                type: Boolean
+            },
+            closeTestCallback: {
+                type: Function,
+                default: function () {
+                }
+            },
+            questionThreshold: {
+                type: Number
+            },
+            questionNumberShow: {
+                type: Boolean
+            }
+        },
+        data: function () {
+            return {
+                curQuestionNumber: 0,
+                isNextButtonShow: false,
+                isApplyQuestionButtonShow: false,
+                isCorrectAnswer: false,
+                isInCorrectAnswer: false,
+                now: Date.now(),
+                questions: [],
+                showFeedback: false,
+                feedbackText: '',
+                isFixButtonShow: false,
+                isDiscoverButtonShow: false,
+                nextButtonText: ''
+            };
+        },
+        mounted: function () {
+            if (this.curQuestionNumber === this.data.length - 1) {
+                this.nextButtonText = 'Продолжить';
+            } else {
+                this.nextButtonText = 'Следующий вопрос';
+            }
+            if (this.random) {
+                this.shuffleQuestions();
+            }
+            var vm = this;
+            EventBus.$on('reset-assessment', function () {
+                vm.resetAssessment();
+            });
+        },
+        watch: {
+            curQuestionNumber: function () {
+                if (this.curQuestionNumber === this.data.length - 1) {
+                    this.nextButtonText = 'Продолжить';
+                } else {
+                    this.nextButtonText = 'Следующий вопрос';
+                }
+                while (!$('.auto_height')) {
+                }
+                sortable_resize();
+            }
+        },
+        methods: {
+            fixQuestion: function () {
+                this.showFeedback = false;
+                this.feedbackText = '';
+                this.isDiscoverButtonShow = false;
+                this.now = Date.now();
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.data.forEach(function (question) {
+                    question.answers.forEach(function (answer) {
+                        answer.disabled = false;
+                        answer.is_selected = false;
+                    });
+                });
+            },
+            discoverQuestion: function () {
+                this.showFeedback = false;
+                this.feedbackText = '';
+                this.isDiscoverButtonShow = false;
+                this.now = Date.now();
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = true;
+                this.isFixButtonShow = false;
+                var tooltipColors = this.data[this.curQuestionNumber]["tooltipColors"]
+                var answers = this.data[this.curQuestionNumber].answers;
+                answers.forEach(function (answer) {
+                    answer.disabled = true;
+                    answer.is_selected = !!answer["is_correct"];
+                });
+                $(this.$refs['question-text']).find('span.tooltip-color').each(function (index, el) {
+                    var questionElement = $(el);
+                    var tooltipColorIndex = parseInt($(el).data('tooltip-color'), 10);
+                    answers.filter(function (el) {
+                        if (tooltipColorIndex == el.tooltipColorIndex) {
+                            color = tooltipColors[tooltipColorIndex]
+                            questionElement.addClass(color);
+                            el.tooltipColorStyle = color;
+                        }
+                    })
+                });
+            },
+            getData: function () {
+                this.data = this.data.slice();
+            },
+            shuffleQuestions: function () {
+                this.getData();
+                // this.data.sort(function (el) {
+                //   return .5 - Math.random();
+                // });
+                this.data = this.data.slice(0, this.questionThreshold);
+                this.data.forEach(function (el) {
+                    el.answers.sort(function () {
+                        return .5 - Math.random();
+                    });
+                });
+            },
+            resetAssessment: function () {
+                CLV.oGlobal["test_score"] = 0;
+                this.now = Date.now();
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+                this.curQuestionNumber = 0;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+                this.data.forEach(function (question) {
+                    question.answers.forEach(function (answer) {
+                        answer.disabled = false;
+                        answer.is_selected = false;
+                    });
+                });
+                this.shuffleQuestions();
+            },
+            applyQuestion: function () {
+                this.now = Date.now();
+                var is_correct = this.checkAnswer();
+                this.isCorrectAnswer = is_correct;
+                this.isInCorrectAnswer = !is_correct;
+                this.isCorrectAnswer && (CLV.oGlobal["test_score"] = ++CLV.oGlobal["test_score"] || 1);
+                this.showFeedback = true;
+                this.isApplyQuestionButtonShow = false;
+                this.isNextButtonShow = true;
+                // this.isNextButtonShow = this.isCorrectAnswer;
+                this.isFixButtonShow = false;
+                // this.isFixButtonShow = !this.isCorrectAnswer;
+                this.isDiscoverButtonShow = false;
+                // this.isDiscoverButtonShow = !this.isCorrectAnswer;
+                if (this.curQuestionNumber === this.data.length - 1) {
+                    this.nextButtonText = 'Продолжить';
+                } else {
+                    this.nextButtonText = 'Следующий вопрос';
+                }
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    a[i].disabled = true;
+                }
+            },
+            changeRadioAnswer: function ($event, data) {
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    a[i].is_selected = false;
+                }
+                this.feedbackText = data.feedback;
+                this.isApplyQuestionButtonShow = data.is_selected = $event.target.checked;
+            },
+            changeCheckboxAnswer: function ($event, data) {
+                data.is_selected = $event.target.checked;
+                var a = this.data[this.curQuestionNumber].answers;
+                this.isApplyQuestionButtonShow = false;
+                for (var i = 0; i < a.length; i++) {
+                    if (a[i].is_selected) {
+                        return this.isApplyQuestionButtonShow = true;
+                    }
+                }
+            },
+            closeTest: function () {
+                this.closeTestCallback();
+            },
+            checkRadioType: function () {
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    if ((a[i].is_correct && !a[i].is_selected) || (!a[i].is_correct && a[i].is_selected)) {
+                        this.feedbackText = this.data[this.curQuestionNumber].negativeFeedback;
+                        return false;
+                    }
+                }
+                this.feedbackText = this.data[this.curQuestionNumber].positiveFeedback
+                return true;
+            },
+            checkCheckboxType: function () {
+                var a = this.data[this.curQuestionNumber].answers;
+                for (var i = 0; i < a.length; i++) {
+                    if ((a[i].is_correct && !a[i].is_selected) || (!a[i].is_correct && a[i].is_selected)) {
+                        this.feedbackText = this.data[this.curQuestionNumber].negativeFeedback;
+                        return false;
+                    }
+                }
+                this.feedbackText = this.data[this.curQuestionNumber].positiveFeedback
+                return true;
+            },
+            checkAnswer: function () {
+                if (this.data[this.curQuestionNumber].question_type === 'radio') {
+                    return this.checkRadioType();
+                } else if (this.data[this.curQuestionNumber].question_type === 'checkbox') {
+                    return this.checkCheckboxType();
+                }
+                throw 'Неизвестный тип теста';
+            },
+            nextQuestion: function ($event) {
+                this.showFeedback = false;
+                this.feedbackText = '';
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+                this.data[this.curQuestionNumber].answers.forEach(function (answer) {
+                    answer.disabled = false;
+                    answer.is_selected = false
+                    answer.tooltipColorStyle = null;
+                });
+                var tooltipColors = this.data[this.curQuestionNumber]["tooltipColors"]
+                $('span.tooltip-color').each(function (index, el) {
+                    var spanElement = $(el);
+                    tooltipColors.forEach(function (el) {
+                        spanElement.removeClass(el);
+                    });
+                });
+                sortable_resize();
+                if (this.curQuestionNumber === this.data.length - 1) {
+                    this.isNextButtonShow = false;
+                    return this.closeTest();
+                }
+                this.curQuestionNumber++;
+                this.isNextButtonShow = false;
+                this.isCorrectAnswer = false;
+                this.isInCorrectAnswer = false;
+            }
+        }
+    });
+</script>
+<script type="text/x-template" id="lmm-draggable-vue-template">
+    <div>
+        <div class="d-flex">
+            <div class="columns-grop" style="padding-left: 0px;">
+                <p class="text-m auto_height mb-magenta" v-for="(element, index) in answers"
+                   :key="index">
+                    {{element.text}}</p>
+            </div>
+            <div class="columns-grop" style="padding-right: 0px;">
+                <draggable class="list-group" tag="ul" v-model="list" v-bind="dragOptions"
+                           :disabled="disabled"
+                           @start="drag = true" @end="drag = false">
+                    <transition-group type="transition" :name="!drag ? 'flip-list' : null">
+                        <li class="list-group-item" v-for="element in list" :key="element.order">
+                            <i :class="
+                            element.fixed ? 'fa fa-anchor' : 'glyphicon glyphicon-pushpin'
+                        " @click="element.fixed = !element.fixed" aria-hidden="true"></i>
+                            {{ element.name.answer_text }}
+                        </li>
+                    </transition-group>
+                </draggable>
+            </div>
+        </div>
+        <div v-show="showFeedback" class="mb-pink">
+            <div class="text-m" v-html="feedbackText"></div>
+        </div>
+        <div class="lmm-answers__accept">
+            <div class="lmm-answers accept__center">
+                <button v-if="isApplyQuestionButtonShow" @click="checkAnswers()"
+                        class="btn__primary nav">Принять ответ
+                </button>
+                <button v-if="isNextButtonShow" @click="showNextQuestion()"
+                        class="btn__primary nav">{{nextButtonText}}
+                </button>
+                <button v-if="isFixButtonShow" @click="fixQuestion()" class="btn__primary nav
+">Попробовать снова
+                </button>
+                <button v-if="isDiscoverButtonShow" @click="showRightAnswers()"
+                        class="btn__primary nav">Узнать ответ
+                </button>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    Vue.component('lmm-draggable-vue', {
+        template: '#lmm-draggable-vue-template',
+        props: {
+            message: {
+                type: Array
+            },
+            nextQuestion: {
+                type: Function,
+                default: function () {
+                }
+            },
+            nextButtonText: {
+                type: String,
+                default: ''
+            },
+            feedback: {
+                type: Object,
+                default: {
+                    positive: '',
+                    negative: ''
+                }
+            },
+            answers: {
+                type: Object
+            }
+        },
+        name: "Sortable",
+        display: "Transitions",
+        order: 4,
+        data: function () {
+            return {
+                list: this.message.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    };
+                }),
+                disabled: false,
+                drag: false,
+                showFeedback: false,
+                isApplyQuestionButtonShow: true,
+                isNextButtonShow: false,
+                isFixButtonShow: false,
+                isDiscoverButtonShow: false,
+                feedbackText: ''
+            };
+        },
+        updated: function () {
+            sortable_resize();
+        },
+        mounted: function () {
+            sortable_resize();
+        },
+        methods: {
+            sort: function () {
+                this.list = this.list.sort(function (a, b) {
+                    return a.order - b.order
+                });
+            },
+            showRightAnswers: function () {
+                this.list.forEach(function (el) {
+                    el.order = el.name.correctPosition;
+                });
+                this.sort();
+                sortable_resize();
+                this.showFeedback = false;
+                this.isNextButtonShow = true;
+                this.isDiscoverButtonShow = false;
+                this.isFixButtonShow = false;
+            },
+            checkAnswers: function () {
+                this.disabled = true;
+                this.isApplyQuestionButtonShow = false;
+                var arr = [];
+                var s = 0;
+                this.list.map(function (el) {
+                    arr.push(el.order);
+                });
+                for (var i = 0; i < this.list.length; i++) {
+                    if (i + 1 === this.list[i].name.correctPosition) {
+                        s++;
+                    }
+                }
+                if (s === this.list.length) {
+                    this.isNextButtonShow = true;
+                    CLV.oGlobal["test_score"] = ++CLV.oGlobal["test_score"] || 1;
+                    this.getFeedback(true);
+                } else {
+                    this.isDiscoverButtonShow = false;
+                    // this.isDiscoverButtonShow = true;
+                    this.isFixButtonShow = false;
+                    this.isNextButtonShow = true;
+                    // this.isFixButtonShow = true;
+                    this.showRightAnswers();
+                    this.getFeedback(false);
+                }
+                sortable_resize();
+                this.showFeedback = true;
+            },
+            fixQuestion: function () {
+                this.disabled = false;
+                this.showFeedback = false;
+                this.isApplyQuestionButtonShow = true;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+            },
+            showNextQuestion: function () {
+                this.showFeedback = false;
+                this.disabled = false;
+                this.isNextButtonShow = false;
+                this.isApplyQuestionButtonShow = true;
+                this.nextQuestion();
+            },
+            getFeedback: function (val) {
+                val ? this.feedbackText = this.feedback.positive : this.feedbackText = this.feedback
+                    .negative;
+            },
+        },
+        watch: {
+            message: function (val) {
+                this.list = val.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    }
+                });
+            }
+        },
+        computed: {
+            dragOptions: function () {
+                return {
+                    animation: 200,
+                    group: "description",
+                    disabled: false,
+                    // ghostClass: "ghost"
+                };
+            },
+        }
+    });
+</script>
+<script type="text/x-template" id="lmm-ranking-vue-template">
+    <div>
+        <div class="d-flex mb-cyan">
+            <draggable class="list-group" tag="ul" v-model="list" v-bind="dragOptions"
+                       :disabled="disabled"
+                       @start="drag = true" @end="drag = false">
+                <transition-group type="transition" :name="!drag ? 'flip-list' : null">
+                    <li class="list-group-item" v-for="element in list" :key="element.order">
+                        <i :class="
+                            element.fixed ? 'fa fa-anchor' : 'glyphicon glyphicon-pushpin'
+                        " @click="element.fixed = !element.fixed" aria-hidden="true"></i>
+                        {{ element.name.answer_text }}
+                    </li>
+                </transition-group>
+            </draggable>
+        </div>
+        <div v-show="showFeedback" class="mb-cyan">
+            <div class="text-m" v-html="feedbackText"></div>
+        </div>
+        <div class="lmm-answers__accept">
+            <div class="lmm-answers accept__center">
+                <button v-if="isApplyQuestionButtonShow" @click="checkAnswers()"
+                        class="btn__primary nav">Принять ответ
+                </button>
+                <button v-if="isNextButtonShow" @click="showNextQuestion()"
+                        class="btn__primary nav">{{nextButtonText}}
+                </button>
+                <button v-if="isFixButtonShow" @click="fixQuestion()" class="btn__primary nav
+">Попробовать снова
+                </button>
+                <button v-if="isDiscoverButtonShow" @click="showRightAnswers()"
+                        class="btn__primary nav">Узнать ответ
+                </button>
+            </div>
+        </div>
+    </div>
+</script>
+<script>
+    Vue.component('lmm-ranking-vue', {
+        template: '#lmm-ranking-vue-template',
+        props: {
+            message: {
+                type: Array
+            },
+            nextQuestion: {
+                type: Function,
+                default: function () {
+                }
+            },
+            nextButtonText: {
+                type: String,
+                default: ''
+            },
+            feedback: {
+                type: Object,
+                default: {
+                    positive: '',
+                    negative: ''
+                }
+            },
+            answers: {
+                type: Object
+            }
+        },
+        name: "Ranking",
+        display: "Transitions",
+        order: 4,
+        data: function () {
+            return {
+                list: this.message.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    };
+                }),
+                disabled: false,
+                drag: false,
+                showFeedback: false,
+                isApplyQuestionButtonShow: true,
+                isNextButtonShow: false,
+                isFixButtonShow: false,
+                isDiscoverButtonShow: false,
+                feedbackText: ''
+            };
+        },
+        updated: function () {
+            ranking_resize();
+        },
+        mounted: function () {
+            ranking_resize();
+        },
+        methods: {
+            sort: function () {
+                this.list = this.list.sort(function (a, b) {
+                    return a.order - b.order
+                });
+            },
+            showRightAnswers: function () {
+                this.list.forEach(function (el) {
+                    el.order = el.name.correctPosition;
+                });
+                this.sort();
+                ranking_resize();
+                this.showFeedback = false;
+                this.isNextButtonShow = true;
+                this.isDiscoverButtonShow = false;
+                this.isFixButtonShow = false;
+            },
+            checkAnswers: function () {
+                this.disabled = true;
+                this.isApplyQuestionButtonShow = false;
+                var arr = [];
+                var s = 0;
+                this.list.map(function (el) {
+                    arr.push(el.order);
+                });
+                for (var i = 0; i < this.list.length; i++) {
+                    if (i + 1 === this.list[i].name.correctPosition) {
+                        s++;
+                    }
+                }
+                if (s === this.list.length) {
+                    this.isNextButtonShow = true;
+                    CLV.oGlobal["test_score"] = ++CLV.oGlobal["test_score"] || 1;
+                    this.getFeedback(true);
+                } else {
+                    this.isDiscoverButtonShow = false;
+                    // this.isDiscoverButtonShow = true;
+                    this.isFixButtonShow = false;
+                    this.isNextButtonShow = true;
+                    // this.isFixButtonShow = true;
+                    this.showRightAnswers();
+                    this.getFeedback(false);
+                }
+                ranking_resize();
+                this.showFeedback = true;
+            },
+            fixQuestion: function () {
+                this.disabled = false;
+                this.showFeedback = false;
+                this.isApplyQuestionButtonShow = true;
+                this.isNextButtonShow = false;
+                this.isFixButtonShow = false;
+                this.isDiscoverButtonShow = false;
+            },
+            showNextQuestion: function () {
+                this.showFeedback = false;
+                this.disabled = false;
+                this.isNextButtonShow = false;
+                this.isApplyQuestionButtonShow = true;
+                this.nextQuestion();
+            },
+            getFeedback: function (val) {
+                val ? this.feedbackText = this.feedback.positive : this.feedbackText = this.feedback
+                    .negative;
+            },
+        },
+        watch: {
+            message: function (val) {
+                this.list = val.map(function (name, index) {
+                    return {
+                        name: name,
+                        order: index + 1
+                    }
+                });
+            }
+        },
+        computed: {
+            dragOptions: function () {
+                return {
+                    animation: 200,
+                    group: "description",
+                    disabled: false,
+                    // ghostClass: "ghost"
+                };
+            },
+        }
+    });
+</script></div>]]>
+</data>
+</object>
+<object id="resources" expanded="yes" x="-226" y="4" w="200" h="100" z="2" display="frame" begin="0" type="009_storage">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div style="display: none" ><div>images/OpenSans-Bold.otf</div><div>images/OpenSans-BoldItalic.otf</div><div>images/OpenSans-CondensedBold.otf</div><div>images/OpenSans-SemiboldItalic.eot</div><div>images/OpenSans-SemiboldItalic.woff</div><div>images/OpenSans-SemiboldItalic.woff2</div><div>images/OpenSans-LightItalic.eot</div><div>images/OpenSansLight-Italic.woff</div><div>images/OpenSans-LightItalic.woff2</div><div>images/OpenSans.woff</div><div>images/OpenSans-Regular.eot</div><div>images/OpenSans-Regular.woff2</div><div>images/OpenSans-Semibold.eot</div><div>images/OpenSans-Semibold.woff</div><div>images/OpenSans-Semibold.woff2</div><div>images/OpenSans-Light.eot</div><div>images/OpenSans-Light.woff</div><div>images/OpenSans-Light.woff2</div><div>images/OpenSans-CondensedLightItalic.woff</div><div>images/OpenSans-CondLightItalic.eot</div><div>images/OpenSans-CondLightItalic.woff2</div><div>images/OpenSans-ExtraBold.eot</div><div>images/OpenSans-Extrabold.woff</div><div>images/OpenSans-ExtraBold.woff2</div><div>images/OpenSans-ExtraBoldItalic.eot</div><div>images/OpenSans-ExtraboldItalic.woff</div><div>images/OpenSans-ExtraBoldItalic.woff2</div><div>images/OpenSans-Italic.eot</div><div>images/OpenSans-Italic.woff</div><div>images/OpenSans-Italic.woff2</div><div>images/OpenSans-CondensedLight.woff</div><div>images/OpenSans-CondLightItalic.eot</div><div>images/OpenSans-ExtraBold.eot</div><div>images/OpenSans-Extrabold.woff</div><div>images/OpenSans-ExtraBoldItalic.eot</div><div>images/OpenSans-ExtraboldItalic.woff</div><div>images/OpenSans-ExtraBoldItalic.woff2</div><div>images/OpenSans-Italic.eot</div><div>images/OpenSans-Italic.woff</div><div>images/OpenSans-Italic.woff2</div><div>images/OpenSans-SemiboldItalic.ttf</div><div>images/OpenSans-Semibold.ttf</div><div>images/OpenSans-Regular.ttf</div><div>images/OpenSans-LightItalic.ttf</div><div>images/OpenSans-Light.ttf</div><div>images/OpenSans-Italic.ttf</div><div>images/OpenSans-ExtraBoldItalic.ttf</div><div>images/OpenSans-ExtraBold.ttf</div><div>images/OpenSans-CondLightItalic.ttf</div><div>images/OpenSans-CondLight.ttf</div><div>images/OpenSans-CondBold.ttf</div><div>images/OpenSans-BoldItalic.ttf</div><div>images/OpenSans-BoldItalic.eot</div><div>images/OpenSans-BoldItalic.woff</div><div>images/OpenSans-Light.otf</div><div>images/OpenSans-Italic.otf</div><div>images/OpenSans-ExtraboldItalic.otf</div><div>images/OpenSans-Semibold.otf</div><div>images/OpenSansLight-Italic.otf</div><div>images/OpenSans-CondensedLightItalic.otf</div><div>images/OpenSans-CondensedLight.otf</div><div>images/OpenSans-Extrabold.otf</div><div>images/OpenSans-Semibold.otf</div><div>images/OpenSans.otf</div><div>images/OpenSans-SemiboldItalic.otf</div><div>images/OpenSans-CondensedBold.woff</div><div>images/top.png</div><div>images/about_course_o.png</div><div>images/about_course_n.png</div><div>images/about_devs_n.png</div><div>images/about_devs_o.png</div><div>images/autors_close_n.png</div><div>images/autors_close_o.png</div><div>images/OpenSans-SemiboldItalic.svg</div><div>images/OpenSans-Semibold.svg</div><div>images/OpenSansLight-Italic.svg</div><div>images/OpenSans-Light.svg</div><div>images/OpenSans-Italic.svg</div><div>images/OpenSans-ExtraboldItalic.svg</div><div>images/OpenSans-CondensedLightItalic.svg</div><div>images/OpenSans-CondensedBold.svg</div><div>images/OpenSans-CondensedLight.svg</div><div>images/OpenSans-BoldItalic.svg</div><div>images/OpenSans-Bold.svg</div><div>images/OpenSans.svg</div><div>images/OpenSans.svg</div><div>images/OpenSans.woff</div><div>images/OpenSans-Regular.eot</div><div>images/OpenSans-Regular.woff2</div><div>images/OpenSans.ttf</div><div>images/OpenSans-Bold.woff2</div><div>images/OpenSans-Bold.woff</div><div>images/OpenSans-Bold.woff2</div><div>images/soft_bg_blue.png</div><div>images/autors_btn_url_n.png</div><div>images/autors_btn_url_o.png</div><div>images/autors_btn_url_n.png</div><div>images/autors_btn_url_o.png</div><div>images/soft_bg_blue.png</div><div>images/glossary_btn_a.png</div><div>images/glossary_btn_n.png</div><div>images/glossary_btn_o.png</div><div>images/menu_btn_n.png</div><div>images/menu_btn_o.png</div><div>images/menu_btn_o.png</div></div></div>]]>
+</data>
+</object>
+<object id="close_menu" expanded="yes" x="1079" y="-71" w="120" h="38" z="3" display="none" begin="0" type="nav_0000_btn_universal">
+<data>
+<![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="CL.Resp.Process({ respid: 'close_menu_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="style-custom" style="display: none" ><div class="rule" data-name="#close_menu .cl-btn"><span class="rule-static">width: 120px; height: 38px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn idle"><img border="0" class="cl-img-idle" src="images/close_btn_n.png" title="" /><img border="0" class="cl-img-over" src="images/close_btn_n.png" title="" /><img border="0" class="cl-img-disabled" src="images/close_btn_n.png" title="" /></div></div></div>]]>
+</data>
+<RESPONSE name="close_menu_1" event="onclick" type="link">
+<JAVASCRIPT javascript="$(&apos;#close_menu&apos;).hide();
+$(&apos;#menu_btn&apos;).show();
+$(&apos;#menu&apos;).fadeOut(600);
+">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="next" expanded="yes" x="700" y="630" w="61" h="70" z="4" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 61px; height: 70px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'next_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><button class="btn__next">&nbsp;</button></div>]]>
+</data>
+<RESPONSE name="next_1" event="onclick" type="link">
+<GOTO option="1" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="menu_btn_old" expanded="yes" x="1080" y="12" w="120" h="38" z="5" display="none" begin="0" type="nav_0000_btn_universal">
+<data>
+<![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="CL.Resp.Process({ respid: 'menu_btn_old_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="style-custom" style="display: none" ><div class="rule" data-name="#menu_btn_old .cl-btn"><span class="rule-static">width: 120px; height: 38px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn idle"><img border="0" class="cl-img-idle" src="images/menu_btn_n.png" title="" /><img border="0" class="cl-img-over" src="images/menu_btn_o.png" title="" /><img border="0" class="cl-img-disabled" src="images/menu_btn_n.png" title="" /></div></div></div>]]>
+</data>
+<RESPONSE name="menu_btn_old_1" event="onclick" type="link">
+<JAVASCRIPT javascript="resetMenu();
+$(&apos;#close_menu&apos;).show();
+$(&apos;#IMG_52&apos;).fadeIn(610);
+$(&apos;#menu&apos;).fadeIn(600);
+">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="menu_btn" expanded="yes" x="1199" y="20" w="61" h="69" z="6" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 61px; height: 69px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'menu_btn_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><div class="menu_btn">&nbsp;&nbsp;</div></div>]]>
+</data>
+<RESPONSE name="menu_btn_1" event="onclick" type="link">
+<JAVASCRIPT javascript="resetMenu();
+
+$(&apos;#glossary&apos;).fadeOut(300);
+
+$(&apos;#menu&apos;).fadeIn(300);
+$(&apos;#close_menu&apos;).show();
+
+$(&apos;.menu_btn&apos;).addClass(&apos;active&apos;);
+$(&apos;.menu_btn&apos;).removeClass(&apos;non-active&apos;);
+
+$(&apos;.glossary_btn&apos;).addClass(&apos;non-active&apos;);
+$(&apos;.glossary_btn&apos;).removeClass(&apos;active&apos;);">
+</JAVASCRIPT>
+</RESPONSE>
+</object>
+<object id="menu" expanded="yes" x="0" y="50" w="1280" h="670" z="7" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 670px; box-sizing: border-box;"><div class="contents_bg">
+  <div class="contents_wrap">
+    <div class="contents-close">&nbsp;
+    </div>
+    <div class="contents_wrap_bg">
+      <div class="row mt-green mb-yellow">
+        <div class="h2">Содержание
+        </div>
+      </div>
+      <p class="contents_item-list title first js-nav-link" data-frame="FRAME_37">Общая информация о продукте &laquo;Страхование кредитной карты&raquo;
+      </p>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_66">
+        <p>Ценность продукта
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_76">
+        <p>Целевая аудитория продукта
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_71">
+        <p>Модальные окна
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_64">
+        <p>Карта курса
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_82">
+        <p>Предусмотренные риски
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_85">
+        <p>Параметры продукта
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_72">
+        <p>Страховое возмещение
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_90">
+        <p>Какие Клиенты не принимаются на страхование
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_114">
+        <p>Случаи, при которых страховая выплата не производится
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_49">
+        <p>Подключение программы страхования
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_48">
+        <p>Порядок получения страховой выплаты
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_53">
+        <p>Порядок действий менеджера
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_75">
+        <p>Преимущества для Клиента
+        </p>
+      </div>
+      <div class="contents_item-list title js-nav-link disabled" data-frame="FRAME_118">Техника продажи страхового продукта &laquo;Страхование кредитной карты&raquo;
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_87">
+        <p>Этапы продаж
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_60">
+        <p>Пример диалога с клиентом
+        </p>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_50">
+        <p>1. Установление контакта
+        </p>
+      </div>
+      <div class="contents_item-list disabled">
+        <p class="js-nav-link" data-frame="FRAME_119">2. Выявление и формирование потребности
+        </p>
+        <div class="contents_item-list_subitem contents_item-list js-nav-link disabled" data-frame="FRAME_103">Примеры вопросов
+        </div>
+      </div>
+      <div class="contents_item-list disabled">
+        <p class="js-nav-link" data-frame="FRAME_132">3. Презентация
+        </p>
+        <div class="contents_item-list_subitem contents_item-list js-nav-link disabled" data-frame="FRAME_151">Примеры презентации
+        </div>
+      </div>
+      <div class="contents_item-list disabled">
+        <p class="js-nav-link" data-frame="FRAME_83">4. Работа с возражениями
+        </p>
+        <div class="contents_item-list_subitem contents_item-list js-nav-link disabled" data-frame="FRAME_79">Пример отработки возражения &laquo;Дорого&raquo;
+        </div>
+        <div class="contents_item-list_subitem contents_item-list js-nav-link disabled" data-frame="FRAME_99">Примеры отработки других возражений
+        </div>
+      </div>
+      <div class="contents_item-list disabled">
+        <p class="js-nav-link" data-frame="FRAME_65">5. Завершение контакта
+        </p>
+        <div class="contents_item-list_subitem contents_item-list js-nav-link disabled" data-frame="FRAME_81">Пример завершения контакта
+        </div>
+      </div>
+      <div class="contents_item-list js-nav-link disabled" data-frame="FRAME_59">
+        <p>Мотивация сотрудников
+        </p>
+      </div>
+      <div class="contents_item-list title js-nav-link disabled" data-frame="FRAME_70">Итоговое тестирование
+      </div>
+      <div class="contents_item-list title last js-nav-link disabled" data-frame="FRAME_74">Заключение
+      </div>
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</object>
+<object id="glossary" expanded="yes" x="0" y="50" w="1280" h="670" z="8" display="none" begin="0">
+<data>
+<![CDATA[<div style="width: 1280px; height: 670px; box-sizing: border-box;"><div class="contents_bg">
+  <div class="contents_wrap">
+    <div class="contents-close">&nbsp;
+    </div>
+    <div class="contents_wrap_bg">
+      <div class="row mt-green mb-yellow">
+        <div class="h2">Словарь терминов
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Страхователь
+        </div>
+        <div>Банк ВТБ (ПАО).
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Застрахованный
+        </div>
+        <div>Держатель кредитной карты Банка ВТБ (ПАО), выразивший свое согласие на включение в число участников программы страхования.
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Выгодоприобретатель
+        </div>
+        <div>Получатель страхового возмещения по договору страхования.
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Страховая сумма
+        </div>
+        <div>Величина, на которую страхователь страхует свой интерес, максимальный размер ответственности СОГАЗ в денежном выражении.
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Страховое возмещение
+        </div>
+        <div>Компенсация, выплачиваемая страхователю или выгодоприобретателю при наступлении страхового случая.
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Страховая премия
+        </div>
+        <div>Плата, которую страхователь обязан внести страховщику в соответствии с договором страхования или законом.
+        </div>
+      </div>
+      <div class="glossary_item">
+        <div>Период охлаждения
+        </div>
+        <div>Период времени сроком 14 дней с даты заключения договора страхования, в течение которого Застрахованное лицо вправе отказаться от договора страхования и получить возврат уплаченной страховой премии в полном объеме.
+        </div>
+      </div>
+    </div>
+  </div>
+</div></div>]]>
+</data>
+</object>
+<object id="prev" expanded="yes" x="519" y="630" w="61" h="70" z="9" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 61px; height: 70px; box-sizing: border-box;cursor: pointer;" onclick="CL.Resp.Process({ respid: 'prev_1', evt: ((typeof e === 'undefined') ? ((typeof event === 'undefined') ? window.event : event) : e) });return false;"><button class="btn__prev">&nbsp;</button></div>]]>
+</data>
+<RESPONSE name="prev_1" event="onclick" type="link">
+<GOTO option="2" fs_frame="" pid="">
+</GOTO>
+</RESPONSE>
+</object>
+<object id="slider_counter" expanded="yes" x="1317" y="451" w="106" h="50" z="10" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 106px; height: 50px; box-sizing: border-box;"><div class="slide__counter">
+<p>&nbsp;</p>
+</div></div>]]>
+</data>
+</object>
+<object id="counter" expanded="yes" x="1326" y="444" w="80" h="55" z="11" display="frame" begin="0" type="nav_0001_position">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#counter .cl-position-table"><span class="rule-static">width: 80px; height: 55px;</span></div><div class="rule" data-name="#counter .cl-position-table td"><span class="rule-static">width: 80px; height: 55px;</span></div><div class="rule" data-name="#counter .cl-position"><span class="rule-static">color: #FFFFFF; font-size: 24px; font-family: Tahoma,Verdana,Segoe,sans-serif; </span></div></div><div class="cl-container unselectable" ><table class="cl-position-table"><tr><td><div class="cl-position"><span class="cl-label"></span><span class="cl-value" cl-role="slide-number">N</span><span class="cl-divider">/</span><span class="cl-total" cl-role="slide-total">M</span></div></td></tr></table></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+<method type="nav_0002_navi_win" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				oCurObj.bShowInternal = true;
+				var jContainer = jCurDiv.find(".cl-container");
+				jContainer.find(".cl-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "Close" }) });
+				oCurObj.initial.nZ = 5000;
+				oCurObj.data =
+				{
+					aTogglers: [],
+					bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+					bNaviLockedByAction: false,
+					bModal: (oCurObj.jxParams.children("modal").text()=="yes"),
+					bSearchTip: (oCurObj.jxParams.children("search_tip").text()=="yes"),
+					sSlideId: "",
+					sRole: oCurObj.jxParams.children("contenttype").text(),
+					sState: "enabled",
+					sPosition: "closed",
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				var jxToggle = CL.jxModule.find("param > target_object");
+				var sTogglerId;
+				for(var i=0; i<jxToggle.length; i++)
+				{
+					if($(jxToggle[i]).text()==argobj.pid)
+					{
+						sTogglerId = $(jxToggle[i]).parent().attr("objectid");
+						oCurObj.data.aTogglers.push(sTogglerId);
+						if(oCurObj.data.sRole=="contents")
+						{
+							if(CLO[sTogglerId]!=null)
+							{
+								if(CLO[sTogglerId].data!=null)
+								{
+									CLO[sTogglerId].data.sRole = "contents";
+								}
+							}
+						}
+					}
+				}
+				var iTranIn = parseInt(oCurObj.jxParams.children("tranin").text(),10);
+				if(iTranIn==-2 && oCurObj.tranin!=null)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = oCurObj.tranin.transition;
+					oCurObj.data.iDurIn = oCurObj.tranin.duration;
+				}
+				else if(iTranIn>=0)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = iTranIn;
+					oCurObj.data.iDurIn = parseInt(oCurObj.jxParams.children("durin").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranIn = false;
+				}
+				var iTranOut = parseInt(oCurObj.jxParams.children("tranout").text(),10);
+				if(iTranOut==-2 && oCurObj.tranout!=null)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = oCurObj.tranout.transition;
+					oCurObj.data.iDurOut = oCurObj.tranout.duration;
+				}
+				else if(iTranOut>=0)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = iTranOut;
+					oCurObj.data.iDurOut = parseInt(oCurObj.jxParams.children("durout").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranOut = false;
+				}
+				oCurObj.CallMethod({ sMethod: "InitRole" });
+				jCurDiv.hide();
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						oCurObj.data.sPosition = "open";
+						break;
+					}
+					case "EVENT_SLIDE_OPENED":
+					{
+						oCurObj.CallMethod({ sMethod: "Close" });
+						if(oCurObj.data.sRole=="contents" || oCurObj.data.sRole=="settings" || oCurObj.data.sRole=="comment")
+						{
+							oCurObj.CallMethod({ sMethod: "Update" });
+						}
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="tabs" || argobj.sTargets=="all" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										oCurObj.data.bNaviLockedByAction = true;
+										oCurObj.CallMethod({ sMethod: "Disable" });
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "Enable" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="InitRole">
+<![CDATA[function InitRole(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var iPadding = +oCurObj.jxParams.find("panel_padding").text();
+				var iBorder = +oCurObj.jxParams.find("panel_borderwidth").text();
+				var iFullH = oCurObj.initial.h;
+				var iRadius = +oCurObj.jxParams.find("panel_radius").text();
+				var iCloseH = (iRadius > iPadding) ? iRadius + 20 : iPadding + 20;
+				var iHH = 0;
+				var jHeader = jContainer.find(".cl-body-header");
+				if(jHeader.length>0)
+				{
+					iHH = jHeader.outerHeight();
+					if(iHH<iCloseH) iHH = iCloseH;
+				}
+				else
+				{
+					iHH = iCloseH;
+				}
+				iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+				jContainer.find(".cl-body-contents").height(iH);
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jTemplate = jContainer.find("li.slide-item-template");
+						var jUL = jContainer.find("ul.slide-list");
+						var jxSlide;
+						var jLI;
+						var sSlideId;
+						var bPrevVisited = true;
+						var iIndent;
+						var iPrevIndent = 0;
+						var aPath = CL.oPath._GetSlideList();
+						for(var i=0; i<aPath.length; i++)
+						{
+							sSlideId = aPath[i];
+							jxSlide = CL.jxModule.find("slide[id='" + sSlideId + "']");
+							jLI = jTemplate.clone(true).removeClass("slide-item-template").addClass("slide-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+							jLI.on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+							jLI.find(".item-inner").html(jxSlide.attr("name"));
+							if(jxSlide.attr("indent")!=null)
+							{
+								iIndent = +jxSlide.attr("indent");
+								if(iIndent!=0)
+								{
+									jLI.addClass("indent-" + iIndent);
+									if(iIndent>iPrevIndent && CL.axSlides[i-1]!=0)
+									{
+										jLI.prev().addClass("open");
+										iPrevIndent = iIndent;
+									}
+								}
+								else
+								{
+									iPrevIndent = 0;
+								}
+							}
+							else
+							{
+								iPrevIndent = 0;
+							}
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited==true)
+								{
+									jLI.addClass("allowed unvisited");
+									bPrevVisited = false;
+								}
+								else if(!CLZ.bStrictOrder)
+								{
+									jLI.addClass("allowed unvisited");
+								}
+								else
+								{
+									jLI.addClass("forbidden unvisited");
+								}
+							}
+						}
+						break;
+					}
+					case "search":
+					{
+						jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+						jContainer.find(".cl-search-btn").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Search" }) });
+						jContainer.find(".cl-search-field").on("keydown", function () { CLO[argobj.pid].CallMethod({ sMethod: "SearchTip" }) });
+						break;
+					}
+					case "glossary":
+					{
+						var jLetterBox = jContainer.find(".cl-letters-box");
+						if(jLetterBox.length!=0)
+						{
+							var iMaxW = -1;
+							var jLetters = jLetterBox.find(".cl-letter-item");
+							jLetters.each(function ()
+							{
+								var iW = $(this).width();
+								if(iW>iMaxW) iMaxW = iW;
+							});
+							jLetters.each(function ()
+							{
+								$(this).width(iMaxW);
+							});
+							iHH = jLetterBox.outerHeight();
+							iH = iH - iHH;
+						}
+						jContainer.find(".cl-terms-list-container").height(iH);
+						jContainer.find(".cl-terms-desc").height(iH);
+						iH -= 2*iPadding;
+						jContainer.find(".cl-terms-desc-container").height(iH);
+						jContainer.find(".cl-terms-desc-default-table").height(iH);
+						jContainer.find(".cl-terms-desc-default-cell").height(iH);
+						if(jContainer.find(".cl-letter-item").length>0)
+						{
+							jContainer.find(".cl-letter-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Filter", oMethodArgs: { elem: this } }) });
+						}
+						jContainer.find(".cl-term-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Display", oMethodArgs: { elem: this } }) });
+						break;
+					}
+					case "calculator":
+					{
+						jContainer.find(".calc-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleCalc", oMethodArgs: { elem: this } }) });
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.sLastBtn = "na";
+						oCurObj.data.sMemory = "na";
+						oCurObj.data.bClean = false;
+						oCurObj.data.bEqual = false;
+						oCurObj.data.bPercent = false;
+						break;
+					}
+					case "settings":
+					{
+						oCurObj.data.sObjToDisplay = oCurObj.jxParams.children("settings_display").text();
+						oCurObj.data.bCustomIcons = (oCurObj.jxParams.children("settings_icons").text()=="custom");
+						oCurObj.data.sScoreDisplayType = oCurObj.jxParams.children("score_style").text();
+						var jTemplate = jContainer.find(".cl-sett-row-template");
+						var jTable = jTemplate.parents("table:first");
+						var jTR;
+						var jTD;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jTemplate.clone(true).attr({ "data-obj-id": sObjId }).removeClass("cl-sett-row-template");
+							jTR.children("td.cl-sett-name").html(CLJ[sObjId].sName);
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+							if(CLJ[sObjId].bModule.toString()=="1")
+							{
+								jTR.insertAfter(jTable.find("tr.sett-main-obj-header"));
+							}
+							else
+							{
+								jTR.appendTo(jTable);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						oCurObj.data.sIfNoComment = oCurObj.jxParams.children("comment_display").text();
+						break;
+					}
+				}
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleCalc">
+<![CDATA[function HandleCalc(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				if(argobj.elem==null) return false;
+				var sKey = $(argobj.elem).attr("data-btn");
+				if(sKey==null || sKey=="") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if($(argobj.elem).hasClass("calc-num")) // numeric btn or .
+				{
+					sKey = sKey + "";
+					if(oCurObj.data.bEqual==true)
+					{
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bEqual = false;
+					}
+					if(oCurObj.data.bClean==true)
+					{
+						sCurString = "0";
+						jDisplay.html("0");
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bClean = false;
+					}
+					if(sCurString=="0" && sKey=="0") return false;
+					if(sKey=="." && sCurString.indexOf(".")!=-1) return false;
+					if(sCurString.length>=17)
+					{
+						if(sCurString.indexOf("!")==-1) jDisplay.html("!"+sCurString);
+						return false;
+					}
+					if(sCurString.length==1 && sCurString=="0" && sKey!=".")
+					{
+						jDisplay.html(sKey);
+						return true;
+					}
+					jDisplay.html(sCurString + sKey);
+				}
+				else
+				{
+					if(sCurString.indexOf("ERROR")!=-1 && sKey!="C") return false;
+					switch(sKey)
+					{
+						case "M+":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 + nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MS":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = "-" + sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 - nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MR":
+						{
+							if(oCurObj.data.sMemory!="na")
+							{
+								jDisplay.html(oCurObj.data.sMemory);
+							}
+							break;
+						}
+						case "MC":
+						{
+							oCurObj.data.sMemory = "na";
+							jMemInd.html("&nbsp;");
+							break;
+						}
+						case "C":
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "CE":
+						{
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "Backspace":
+						{
+							if(sCurString.length>1)
+							{
+								sCurString = sCurString.substr(0,sCurString.length-1);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "equal":
+						{
+							if(oCurObj.data.bPercent==true)
+							{
+								return false;
+							}
+							oCurObj.data.bEqual = true;
+							if(oCurObj.data.sOperandA!="na")
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "power":
+						case "plus":
+						case "minus":
+						case "mult":
+						case "divide":
+						{
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+								jDisplay.html(sCurString);
+							}
+							if(oCurObj.data.sOperandA=="na" || oCurObj.data.bClean==true)
+							{
+								oCurObj.data.sOperandA = sCurString;
+								oCurObj.data.sOperatorA = sKey;
+								oCurObj.data.bClean = true;
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "negate":
+						{
+							if(sCurString=="0") return false;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("-")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+							}
+							else
+							{
+								sCurString = "-"+sCurString;
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "recip":
+						{
+							if(sCurString=="0")
+							{
+								oCurObj.data.sOperandA = "na";
+								oCurObj.data.sOperatorA = "na";
+								oCurObj.data.sOperandB = "na";
+								oCurObj.data.sLastBtn = "na";
+								oCurObj.data.bClean = false;
+								jDisplay.html("ERROR: DIV 0");
+								return false;
+							}
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							var nValue = 1/parseFloat(sCurString);
+							sCurString = nValue.toString();
+							if(sCurString.length>=20)
+							{
+								sCurString = sCurString.substring(0,19);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "percent":
+						{
+							if(oCurObj.data.sOperandA=="na") return false;
+							if(oCurObj.data.bPercent==true) return false;
+							oCurObj.data.bPercent = true;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							oCurObj.data.sOperandB = "na";
+							break;
+						}
+					}
+
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Calculate">
+<![CDATA[function Calculate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+				var nValue1 = parseFloat(oCurObj.data.sOperandA);
+				if(oCurObj.data.sOperandB=="na")
+				{
+					oCurObj.data.sOperandB = sCurString
+				}
+				var nValue2 = parseFloat(oCurObj.data.sOperandB);
+				var nResult = 0;
+				switch(oCurObj.data.sOperatorA)
+				{
+					case "plus":
+					{
+						nResult = (nValue1*1000 + nValue2*1000)/1000;
+						break;
+					}
+					case "minus":
+					{
+						nResult = (nValue1*1000 - nValue2*1000)/1000;
+						break;
+					}
+					case "mult":
+					{
+						nResult = nValue1 * nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult/100;
+						}
+						break;
+					}
+					case "divide":
+					{
+						if(nValue2==0)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: DIV 0");
+							return false;
+						}
+						nResult = nValue1 / nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult*100;
+						}
+						break;
+					}
+					case "power":
+					{
+						nResult = Math.pow(nValue1,nValue2);
+						break;
+					}
+				}
+
+				if(nResult>-1 && nResult<1)
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=20)
+					{
+						if(nResult.indexOf("e")!=-1)
+						{
+							var aParts = vResult.split("e");
+							if(parseInt(aParts[1])<-20)
+							{
+								nResult = "0";
+							}
+							else
+							{
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									if(parseFloat(aParts[0])==0)
+									{
+										nResult = "0";
+									}
+									else
+									{
+										nResult = aParts.join("e");
+									}
+								}
+								else
+								{
+									nResult = aParts.join("e");
+								}
+							}
+						}
+						else
+						{
+							nResult = nResult.substr(0,19);
+						}
+					}
+				}
+				else
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=18)
+					{
+						if(nResult.indexOf(".")==-1)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: OVERFLOW");
+							return false;
+						}
+						else
+						{
+							if(nResult.indexOf("e")!=-1)
+							{
+								var aParts = nResult.split("e");
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									nResult = aParts.join("e")
+								}
+							}
+							else
+							{
+								nResult = nResult.substr(0,17);
+							}
+						}
+					}
+				}
+				jDisplay.html(nResult);
+				oCurObj.data.sOperandA = nResult;
+				if(oCurObj.data.bEqual==false && oCurObj.data.bPercent==false)
+				{
+					oCurObj.data.sOperatorA = argobj.sKey;
+				}
+				oCurObj.data.bClean = true;
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Filter">
+<![CDATA[function Filter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				var sLetter = $.trim($(argobj.elem).text());
+				if(sLetter=="*")
+				{
+					jTerms.show();
+				}
+				else
+				{
+					jTerms.hide().each(function ()
+					{
+						var sText = $.trim($(this).html());
+						if(sText.toUpperCase().charAt(0)==sLetter)
+						{
+							$(this).show();
+						}
+					});
+				}
+				jTerms.filter(":visible").filter(":first").click();
+				jContainer.find(".cl-letter-item").addClass("cl-letter-idle").removeClass("cl-letter-selected");
+				$(argobj.elem).removeClass("cl-letter-idle").addClass("cl-letter-selected");
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Display">
+<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				if(argobj.ecode!=null || argobj.eitem!=null)
+				{
+					var sCode = $.trim(argobj.ecode);
+					var sText = $.trim(argobj.eitem);
+					if(sCode=="" && sText=="") return false;
+					var jItem;
+					if(sCode!="")
+					{
+						jItem = jTerms.filter("[data-code='" + sCode + "']");
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+					else if(sText!="")
+					{
+						var sItemText;
+						for(var i=0; i<jTerms.length; i++)
+						{
+							sItemText = $.trim($(jTerms[i]).text());
+							if(sText==sItemText)
+							{
+								jItem = $(jTerms[i]);
+								break;
+							}
+						}
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+				}
+				else
+				{
+					if(argobj.elem==null) return false;
+					if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+					var sTermId = $(argobj.elem).attr("data-number");
+					jTerms.removeClass("cl-term-selected").addClass("cl-term-idle");
+					jContainer.find(".cl-term-desc-item").hide();
+					jContainer.find(".cl-term-desc-item[data-number='" + sTermId + "']").show("fade");
+					jContainer.find(".cl-term-item[data-number='" + sTermId + "']").removeClass("cl-term-idle").addClass("cl-term-selected");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jLIs = jContainer.find("ul.slide-list > li.slide-item");
+						var sSlideId;
+						var jLI;
+						var bPrevVisited = true;
+						for(var i=0; i<jLIs.length; i++)
+						{
+							jLI = $(jLIs[i]);
+							sSlideId = jLI.attr("data-slide-id");
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.removeClass("allowed forbidden visited unvisited").addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.removeClass("current unvisited forbidden").addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited)
+								{
+									if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+									{
+										jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+									bPrevVisited = false;
+								}
+								else
+								{
+									if(!CLZ.bStrictOrder)
+									{
+										if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+								{
+											jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+								}
+								else
+								{
+											jLI.removeClass("allowed current").addClass("forbidden unvisited");
+										}
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "settings":
+					{
+						var jTR;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jContainer.find("tr[data-obj-id='" + sObjId + "']");
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-n cl-sett-status-i cl-sett-status-c").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-u cl-sett-status-p cl-sett-status-f").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						var jxComments = CLS[CLZ.sCurrentSlideId].jxNode.children("comments");
+						if(jxComments.length!=0)
+						{
+							if(jxComments.text()!="")
+							{
+								var sText = $("<div/>").html(jxComments.text()).text();
+								if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = false;
+									oCurObj.CallMethod({ sMethod: "Enable" });
+								}
+								else if(oCurObj.data.sIfNoComment=="hide")
+								{
+									oCurObj.Show();
+								}
+								jContainer.find(".cl-comm-none").hide();
+								jContainer.find(".cl-comm-body").html(sText).show();
+							}
+							else
+							{
+								if(oCurObj.data.sIfNoComment=="text")
+								{
+									jContainer.find(".cl-comm-none").show();
+									jContainer.find(".cl-comm-body").hide();
+								}
+								else if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = true;
+									oCurObj.CallMethod({ sMethod: "Disable" });
+								}
+								else
+								{
+									oCurObj.Hide();
+								}
+							}
+						}
+						else
+						{
+							if(oCurObj.data.sIfNoComment=="text")
+							{
+								jContainer.find(".cl-comm-none").show();
+								jContainer.find(".cl-comm-body").hide();
+							}
+							else if(oCurObj.data.sIfNoComment=="disable")
+							{
+								oCurObj.data.bNaviLockedByAction = true;
+								oCurObj.CallMethod({ sMethod: "Disable" });
+							}
+							else
+							{
+								oCurObj.Hide();
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="SearchTip">
+<![CDATA[function SearchTip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(!oCurObj.data.bSearchTip)
+				{
+					return false;
+				}
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTips = jContainer.find(".cl-search-tips");
+				if(!jTips.is(":visible"))
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+					jTips.fadeIn("fast");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Search">
+<![CDATA[function Search(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var sStr = jContainer.find("input.cl-search-field").val();
+				sStr = $.trim(sStr);
+				if(sStr=="") return false;
+				var sCase = oCurObj.jxParams.children("search_case").text();
+				var bCase = false;
+				if(sCase=="no_user" || sCase=="yes_user")
+				{
+					bCase = (jContainer.find("select.cl-search-case").val()=="yes");
+				}
+				else
+				{
+					bCase = (sCase=="yes");
+				}
+				var sLogic = oCurObj.jxParams.children("search_logic").text();
+				if(sLogic=="OR_user" || sLogic=="AND_user")
+				{
+					sLogic = (jContainer.find("select.cl-search-logic").val()=="yes") ? "AND" : "OR";
+				}
+				var sScope = oCurObj.jxParams.children("search_scope").text();
+				var aResults = CL.Search({ sString: sStr, bCase: bCase, sLogic: sLogic, sScope: sScope });
+				if(oCurObj.data.bSearchTip)
+				{
+					jContainer.find(".cl-search-tips").hide();
+				}
+				if(aResults.length==0)
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found").hide();
+					jContainer.find(".cl-search-no-results").show();
+				}
+				else
+				{
+					var jUL = jContainer.find(".cl-search-results-list");
+					jUL.html("").show();
+					jContainer.find(".cl-search-found").show();
+					jContainer.find(".cl-search-found").find(".cl-search-found-qty").html(aResults.length);
+					jContainer.find(".cl-search-no-results").hide();
+					var jLI;
+					var jTemplate = jContainer.find("li.cl-search-item-template");
+					var sReturnFormat = oCurObj.jxParams.children("search_return_format").text();
+					var sSlideId;
+					for(var i=0; i<aResults.length; i++)
+					{
+						sSlideId = $(aResults[i].slide).attr("id");
+						jLI = jTemplate.clone(true).removeClass("cl-search-item-template").addClass("cl-search-results-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+						jLI.find(".item-name").html($(aResults[i].slide).attr("name"));
+						if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }) || sSlideId==CLZ.sCurrentSlideId)
+						{
+							jLI.addClass("allowed visited").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+						}
+						if(sReturnFormat=="extended")
+						{
+							var aStrings = aResults[i].strings;
+							var sString = "";
+							for(var j=0; j<aStrings.length; j++)
+							{
+								if(j==0)
+								{
+									sString += aStrings[j];
+								}
+								else
+								{
+									sString += "<br>" + aStrings[j];
+								}
+							}
+							jLI.find(".item-text").html(sString);
+						}
+						else
+						{
+							jLI.find(".item-text").hide();
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("allowed"))
+				{
+				var oCurObj = CLO[argobj.pid];
+				var sTargetId = $(argobj.elem).attr("data-slide-id");
+				CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Open">
+<![CDATA[function Open(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="closed" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Close">
+<![CDATA[function Close(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="open" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Disable">
+<![CDATA[function Disable(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="open")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				CLO[argobj.pid].data.sState=="disabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Enable">
+<![CDATA[function Enable(argobj)
+			{
+				CLO[argobj.pid].data.sState=="enabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled") ? "1" : "0";
+					}
+					case "open":
+					{
+						return (CLO[argobj.pid].data.sPosition=="open") ? "1" : "0";
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Toggle">
+<![CDATA[function Toggle(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				if(oCurObj.data.sPosition=="closed")
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: true, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_open";
+					jCurDiv.css({ "z-index": 5001 });
+					if(oCurObj.data.bTranIn)
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranIn, iDuration: oCurObj.data.iDurIn, fnCallback: function () { CLO[argobj.pid].data.sPosition = "open"; } });
+					}
+					else
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "open";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["Off"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "Off" });
+							}
+						}
+					}
+				}
+				else
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: false, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_close";
+					if(oCurObj.data.bTranOut)
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranOut, iDuration: oCurObj.data.iDurOut, fnCallback: function () { CLO[argobj.pid].data.sPosition = "closed"; } });
+					}
+					else
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "closed";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["On"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "On" });
+							}
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.jxParams.find("n1_img").text()=="" || oCurObj.jxParams.find("n2_img").text()=="" || oCurObj.jxParams.find("n3_img").text()=="")
+				{
+					return false;
+				}
+				oCurObj.data =
+				{
+					sState: "enabled",
+					bNaviBtn: (oCurObj.jxParams.find("navibutton").text()=="yes"),
+					bNaviStrict: (oCurObj.jxParams.find("nav_lock").text()=="yes"),
+					bUseMethod: (oCurObj.jxParams.find("use_object").text()=="yes"),
+					bNaviLockedByAction: false,
+					sTargetId: oCurObj.jxParams.find("target_object").text(),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				var jEventDiv = jCurObjDiv.children(".cl-wrapper");
+				if(jEventDiv.length!=0)
+				{
+					jEventDiv[0].removeAttribute("style");
+					jEventDiv[0].setAttribute("data-parent-id", argobj.pid);
+					var sBody;
+					var sNewFn;
+					sBody = jEventDiv[0].getAttribute("onclick");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("onclick", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+					sBody = jEventDiv[0].getAttribute("ondblclick");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("ondblclick", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+					sBody = jEventDiv[0].getAttribute("onmousedown");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("onmousedown", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+					sBody = jEventDiv[0].getAttribute("onmouseup");
+					if(sBody!=null && sBody!="")
+					{
+						jEventDiv[0].setAttribute("onmouseup", 'if(CLO[this.getAttribute("data-parent-id")].data.sState=="enabled") {' + sBody + '}');
+					}
+				}
+				if(CL.bTouch)
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("mouseover", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "over" } }) }).on("mouseout", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "out" } }) }).on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				if(oCurObj.data.bNaviBtn)
+				{
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+					if(CLO[oCurObj.data.sTargetId]!=null)
+					{
+						if(CLO[oCurObj.data.sTargetId].data!=null)
+						{
+							if(CLO[oCurObj.data.sTargetId].data.sRole!=null)
+							{
+								oCurObj.data.sRole = CLO[oCurObj.data.sTargetId].data.sRole;
+							}
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null)
+				{
+					return false;
+				}
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="all" || argobj.sTargets=="tabs" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										if(!oCurObj.data.bNaviLockedByAction)
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+										}
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "EnableAccess" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}					
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="SetState">
+<![CDATA[function SetState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jBtn = jCurObjDiv.find(".cl-btn");
+				if(jBtn.hasClass("cl-disabled") && argobj.sState!="enabled") return false;
+				switch(argobj.sState)
+				{
+					case "over":
+					{
+						jBtn.removeClass("cl-idle").addClass("cl-over");
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "out":
+					{
+						jBtn.removeClass("cl-over").addClass("cl-idle");
+						break;
+					}
+					case "disabled":
+					{
+						jBtn.removeClass("cl-idle cl-over").addClass("cl-disabled");
+						CLO[argobj.pid].data.sState = "disabled";
+						if(argobj.bWindow==true)
+						{
+							oCurObj.data.bNaviLockedByAction = true;
+						}
+						break;
+					}
+					case "enabled":
+					{
+						jBtn.removeClass("cl-disabled").addClass("cl-idle");
+						CLO[argobj.pid].data.sState = "enabled";
+						if(argobj.bWindow==true)
+						{
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "enabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled" ? "1" : "0");
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0000_btn_universal" name="Click">
+<![CDATA[function Click(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sState=="disabled") return false;
+				if(oCurObj.data.bUseMethod)
+				{
+					var sObjectId = oCurObj.jxParams.find("target_object").text();
+					if(sObjectId==null || sObjectId=="") return false;
+					if(CLO[sObjectId]==null)
+					{
+						CLO[sObjectId] = new CLObject({ xNode: CL.axSlides.find("object[id='" + sObjectId + "']") });
+					}
+					if(CLO[sObjectId].oMethods["Open"]!=null && CLO[sObjectId].oMethods["Close"]!=null)
+					{
+						if(CLO[sObjectId].bOpen==true)
+						{
+							CLO[sObjectId].CallMethod({ sMethod: "Close" });
+						}
+						else
+						{
+							CLO[sObjectId].CallMethod({ sMethod: "Open" });
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				oCurObj.data =
+				{
+					iSlideNum: 0,
+					jChapterNumber: [],
+					jChapterTotal: [],
+					jNumber: [],
+					jTotal: [],
+					sDisplayType: oCurObj.jxParams.children("display_type").text(),
+					sSlideId: ""
+				};
+				switch(oCurObj.data.sDisplayType)
+				{
+					case "plain":
+					{
+						oCurObj.data.jNumber = jCurObjDiv.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jCurObjDiv.find("[cl-role='slide-total']");
+						oCurObj.data.jTotal.html(CL.oPath._GetLength());
+						break;
+					}
+					case "sub_module":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>') );
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+					case "sub_chapter":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						break;
+					}
+					case "sub_all":
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>').split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+				}
+				if(oCurObj.data.jTotal.length!=0)
+				{
+					oCurObj.data.jTotal.html(CL.oPath._GetLength());
+				}
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.div==null) return false;
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							CLO[argobj.pid].CallMethod({ sMethod: "Update" });
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				if(argobj.pid==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.data.jNumber.length!=0)
+				{
+					oCurObj.data.jNumber.html(CL.oPath._GetSlideNumber());
+				}
+				if(oCurObj.data.jChapterNumber.length!=0)
+				{
+					oCurObj.data.jChapterNumber.html(CL.oPath._GetSlideNumber({ bChapter: true }));
+				}
+				if(oCurObj.data.jChapterTotal.length!=0)
+				{
+					oCurObj.data.jChapterTotal.html(CL.oPath._GetLength({ bChapter: true }));
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				if(CLO[argobj.pid]==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "currentposition":
+					{
+						return CLO[argobj.pid].data.iSlideNum;
+					}
+				}
+				return true;
+			}]]>
+</method>
+</methods>
+<params>
+<param objectid="OBJ_8">
+<hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current>Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited>Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed>Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open>Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title>Название цели</hidden_obj_title>
+<contenttype>contents</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Помощь</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>no</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Содержание</span>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Поиск</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Словарь</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Документы</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Параметры</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Главная цель модуля</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Цели модуля</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Калькулятор</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Комментарий</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Нет комментариев</span>]]></no_comments>
+<tranin>-1</tranin>
+<durin>800</durin>
+<tranout>-1</tranout>
+<durout>800</durout>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<hide_close>yes</hide_close>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: open_sansregular, Arial, sans-serif;font-size: 18px; color: #000000;">Запрошенный элемент не найден</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>15</panel_padding>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>5</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>richtext</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>clear_sansregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>16</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>none</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>10</gloss_padding>
+<gloss_fill_type>grad_h</gloss_fill_type>
+<gloss_font_color_idle>#FFFFFF</gloss_font_color_idle>
+<gloss_font_color_selected>#0080C0</gloss_font_color_selected>
+<gloss_border_color_idle>#0080C0</gloss_border_color_idle>
+<gloss_border_color_selected>#0080C0</gloss_border_color_selected>
+<gloss_bg_color_idle>#0080C0</gloss_bg_color_idle>
+<gloss_bg_color_selected>#CEEFFF</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#8AD9FF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#FFFFFF</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#0080C0</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>search</content_const>
+<title_close>Закрыть окно</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Искать</search_text_button>
+<search_text_logic>Искать включение:</search_text_logic>
+<search_text_OR>Любого из слов</search_text_OR>
+<search_text_AND>Всех слов</search_text_AND>
+<search_text_case>Регистр:</search_text_case>
+<search_text_case_no>не учитывать</search_text_case_no>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Цель</obj_header>
+<obj_score>Баллы</obj_score>
+<obj_cs>Заверш.</obj_cs>
+<obj_ss>Успех</obj_ss>
+<status_n>Не начато</status_n>
+<status_i>Не закончено</status_i>
+<status_c>Закончено</status_c>
+<status_u>Неизвестно</status_u>
+<status_p>Успешно</status_p>
+<status_f>Неуспешно</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="resources">
+<hidden.label.1>Дополнительные файлы</hidden.label.1>
+<hidden.label.2>(скрытый объект)</hidden.label.2>
+<files>
+<item>
+<file_uri>images/OpenSans-Bold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedBold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-LightItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSansLight-Italic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-LightItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLightItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Extrabold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLight.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Extrabold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-LightItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBoldItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraBold.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLightItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondLight.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondBold.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSansLight-Italic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLightItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLight.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Extrabold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.otf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedBold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/top.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_course_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_course_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_devs_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/about_devs_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_close_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_close_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-SemiboldItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Semibold.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSansLight-Italic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Light.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Italic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-ExtraboldItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLightItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedBold.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-CondensedLight.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-BoldItalic.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.svg</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.eot</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Regular.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans.ttf</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.woff</file_uri>
+</item>
+<item>
+<file_uri>images/OpenSans-Bold.woff2</file_uri>
+</item>
+<item>
+<file_uri>images/soft_bg_blue.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/autors_btn_url_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/soft_bg_blue.png</file_uri>
+</item>
+<item>
+<file_uri>images/glossary_btn_a.png</file_uri>
+</item>
+<item>
+<file_uri>images/glossary_btn_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/glossary_btn_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/menu_btn_n.png</file_uri>
+</item>
+<item>
+<file_uri>images/menu_btn_o.png</file_uri>
+</item>
+<item>
+<file_uri>images/menu_btn_o.png</file_uri>
+</item>
+</files>
+</param>
+<param objectid="close_menu">
+<hidden_noimg>Не все картинки заданы</hidden_noimg>
+<n1_img>images/close_btn_n.png</n1_img>
+<n2_img>images/close_btn_n.png</n2_img>
+<n3_img>images/close_btn_n.png</n3_img>
+<alt_enabled></alt_enabled>
+<alt_disabled></alt_disabled>
+<navibutton>no</navibutton>
+<nav_lock>yes</nav_lock>
+<use_object>no</use_object>
+<target_object></target_object>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="menu_btn_old">
+<hidden_noimg>Не все картинки заданы</hidden_noimg>
+<n1_img>images/menu_btn_n.png</n1_img>
+<n2_img>images/menu_btn_o.png</n2_img>
+<n3_img>images/menu_btn_n.png</n3_img>
+<alt_enabled></alt_enabled>
+<alt_disabled></alt_disabled>
+<navibutton>yes</navibutton>
+<nav_lock>no</nav_lock>
+<use_object>no</use_object>
+<target_object></target_object>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="counter">
+<position_text></position_text>
+<position_divider>/</position_divider>
+<font>Tahoma</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>24</font_size>
+<text_shadow_strength>none</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#FFF</font_color>
+<display_type>plain</display_type>
+<text_sub_module>Слайд {{N}} из {{M}}</text_sub_module>
+<text_sub_chapter>Слайд {{X}} из {{Y}}</text_sub_chapter>
+<text_sub_all>Слайд {{X}} из {{Y}} ({{N}} из {{M}})</text_sub_all>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Главная цель модуля" cs="u" ss="u" scoremax="100" scoremin="0"/>
+<objective id="test_q" name="count of test startings" cs="n" ss="u" scoremax="10" scoremin="0"/>
+<objective id="course_map" name="Массив переменных для сохоанения кнопок навигации" cs="u" ss="u" scoremax="0" scoremin="0"/>
+</objectives>
+<rules>
+<rule objective="total" cs="c" ss="p">
+<condition type="visited" visits="6W,7Z,80,81,7O"/>
+<condition type="score" op="and" objective="total" comp="ge" score="80"/>
+</rule>
+<rule objective="total" cs="c" ss="u">
+<condition type="visited" visits="6W,7Z,80,81,7O"/>
+<condition type="score" op="and" objective="total" comp="lt" score="80"/>
+</rule>
+</rules>
+<runtimechecks>
+</runtimechecks>
+</module>

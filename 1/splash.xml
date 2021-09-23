@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen file, saved 9/23/2021 10:12:48 AM using CourseLab 200122 -->
+<splash>
+<settings>
+<showsplash>yes</showsplash>
+<fitwindow>no</fitwindow>
+<fit_small_window>yes</fit_small_window>
+</settings>
+<data>
+<![CDATA[<div style="position: absolute; box-sizing: border-box; left: 0px; top: 0px; width: 1280px; height: 720px;"><div class="bg-gradient-1 " style="font-size: 0px;height:100%;">123
+</div></div><img src="images/color-scheme-left-1.png" style="position:absolute;left:0px;top:97px;width:614px;height:623px;"/><div style="position: absolute; box-sizing: border-box; left: 636px; top: 165px; width: 604px; height: 62px;"><div class="h1 text-uppercase text-white text-right">Солнечная система</div></div><div style="position: absolute; box-sizing: border-box; left: 940px; top: 596px; width: 300px; height: 84px;"><div class="row">
+<div class="btn btn__primary btn__round xxl" onclick="StartModule();" title="Начать">Начать</div>
+</div></div><div style="position: absolute; box-sizing: border-box; left: 0px; top: 0px; width: 0px; height: 0px;"><div class="modal--overflow" id="course" style="display: none;">
+  <div class="modal--content">
+    <div class="contents-close splash" onclick="$('#course').fadeOut(300);">&nbsp;
+    </div>
+    <div class="text-l">В курсе вы узнаете о продукте &laquo;Страхование кредитной карты&raquo;: его ценности, характеристиках, правилах подключения и технике продаж.
+    </div>
+  </div>
+</div></div><img src="images/logo.png" style="position:absolute;left:1040px;top:40px;width:200px;height:72px;"/>]]>
+</data>
+</splash>
